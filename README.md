@@ -2,6 +2,9 @@
 
 The two directories contain small examples of how to import views into flask.
 
+For larger applications use blueprints
+(see my repo: https://github.com/lfernandez55/3200_flask_full_directory_tutorial)
+
 To run the one titled "Importing views:"
 
 pip install flask
